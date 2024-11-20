@@ -1,76 +1,38 @@
 ---
-time_modified: 2024-10-16T14:35:06-04:00
-time_created: 2024-10-09T11:51:41-04:00
+time_modified: 2024-10-23T22:21:27-04:00
+time_created: 2024-10-01T13:37:19-04:00
+draft: true
 ---
+- [ ] [An Overview of Image Model Blocks | Papers With Code](https://paperswithcode.com/methods/category/image-model-blocks)
 
-#vlm #multimodal 
-
-- [ ] [\[2410.04751\] Intriguing Properties of Large Language and Vision Models](https://arxiv.org/abs/2410.04751)
-
-
-# Models / Architectures
-
-## Flamingo
-- [ ] [\[2204.14198\] Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
-
-## Chameleon
-- [ ] [\[2405.09818\] Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/abs/2405.09818)
-
-
-## LLaVA
-
-
-## Molmo
-
-
-## Pixtral
-
-
-## Qwen2 VL
-
-
-## Aria
-[\[2410.05993\] Aria: An Open Multimodal Native Mixture-of-Experts Model](https://arxiv.org/abs/2410.05993)
-
-## Nvidia Eagle
-[GitHub - NVlabs/EAGLE: EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders](https://github.com/NVlabs/EAGLE)
-
-
-## NVLM
-
-
-## Llama 3 Multimodal
+## Depthwise Convs
 
 
 
-# Design Space
+## Large Kernels
 
 
-## Early vs Late Fusion
+## SE Block
 
 
-## Positional Encoding
 
 
-## Aspect Ratios and Input Sizes
 
 
-## Modality Alignment
+## Inverted Residual Block / MBConv
+Introduced in mobilenetv2
+
+![[Pasted image 20241015123925.png]]
+
+![[Pasted image 20241015123421.png]]
 
 
-# Training
-
-## Pretraining
-
-## Adapter Alignment
 
 
-## Full Fine Tuning vs Frozen
 
 
-## Post Training / Instruction Tuning
+![[Pasted image 20241015124235.png]]
 
-
-# Benchmarks / Evals
-
-- [ ] [MEGA-Bench](https://tiger-ai-lab.github.io/MEGA-Bench/)
+# Links
+- [ ] [Anatomy of a High-Performance MBConv Block](https://www.linkedin.com/pulse/anatomy-high-performance-mbconv-block-andrew-lavin/)
+- [ ] [Better Convolutional Neural Network Efficiency in 12 Figures](https://www.linkedin.com/pulse/better-convolutional-neural-network-efficiency-12-figures-lavin-c9dgc/)

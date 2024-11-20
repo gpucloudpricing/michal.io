@@ -1,3 +1,7 @@
+---
+time_modified: 2024-10-27T19:26:28-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
 
 # Transformers in Vision
 
@@ -57,3 +61,8 @@ https://github.com/hananshafi/vits-for-small-scale-datasets
 
 - [Efficient Transformers: A Survey](https://arxiv.org/abs/2009.06732)
 - [GitHub - Sense-X/SiT: Official implementation of “Self-slimmed Vision Transformer” (ECCV2022)](https://github.com/Sense-X/SiT)
+
+
+
+
+![](https://x.com/james_y_zou/status/1846944485206643030)

@@ -3,6 +3,8 @@ time_modified: 2024-10-15T09:03:59-04:00
 time_created: 2024-09-27T23:34:59-04:00
 ---
 
+- [ ] [\[2411.02959\] HtmlRAG: HTML is Better Than Plain Text for Modeling Retrieved Knowledge in RAG Systems](https://arxiv.org/abs/2411.02959)
+
 - [ ] https://www.anthropic.com/news/contextual-retrieval
 - [ ] [\[2409.13385\] Contextual Compression in Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2409.13385)
 - [ ] [\[2409.14924\] Retrieval Augmented Generation (RAG) and Beyond: A Comprehensive Survey on How to Make your LLMs use External Data More Wisely](https://arxiv.org/abs/2409.14924)

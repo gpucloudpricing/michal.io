@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-15T13:13:39-04:00
+time_modified: 2024-10-17T10:24:06-04:00
 time_created: 2024-10-14T14:23:05-04:00
 ---
 #ssm 
@@ -14,6 +14,8 @@ time_created: 2024-10-14T14:23:05-04:00
 
 
 # Intro
+
+![[Pasted image 20241016144612.png]]
 ## Mamba
 
 
@@ -22,8 +24,11 @@ time_created: 2024-10-14T14:23:05-04:00
 - [ ] [\[2405.21060\] Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060)
 
 
+- [ ] [\[2406.07887\] An Empirical Study of Mamba-based Language Models](https://arxiv.org/abs/2406.07887)
 
 
+
+- [ ] [Gated Delta Networks: Improving Mamba2 with Delta Rule | OpenReview](https://openreview.net/forum?id=r8H7xhYPwz)
 
 # Computer Vision
 

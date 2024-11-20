@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-16T14:35:26-04:00
+time_modified: 2024-10-23T22:21:43-04:00
 time_created: 2023-12-09T00:06:17-05:00
 ---
 
@@ -28,3 +28,17 @@ time_created: 2023-12-09T00:06:17-05:00
 
 
 - [ ] [Representation Alignment for Generation: Training Diffusion Transformers Is Easier Than You Think](https://sihyun.me/REPA/)
+
+
+
+- [ ] textual inversion
+	- [ ] optimize a new token embedding for new concept (an image is worth one word)
+- [ ] DreamBooth
+	- [ ] find unused tokens to map the concept onto, update (fine tune) the model
+	- [ ] auxiliary loss to penalize drift for other concepts
+- [ ] LoRA
+	- [ ] zipLoRA
+	- [ ] C-LoRA
+
+## Unlearning
+- [ ] optimize to maximize loss for given concept

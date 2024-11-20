@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-16T14:35:45-04:00
+time_modified: 2024-10-26T09:36:36-04:00
 time_created: 2024-10-15T08:13:55-04:00
 ---
 
@@ -17,6 +17,8 @@ time_created: 2024-10-15T08:13:55-04:00
 |**Batch Renormalization**|Across mini-batch and feature with correction|- Works with small mini-batches  <br>- More stable for online learning or non-i.i.d. data|- Additional complexity  <br>- Slightly slower than standard BatchNorm|Small-batch training, online learning, RL|
 |**Mean-Only Batch Norm**|Subtracts batch mean (ignores variance)|- Computationally efficient  <br>- Prevents mean-shift  <br>- Simplifies training|- Skips variance normalization, less robust for complex data|Large-scale models where variance normalization isn’t crucial|
 
+
+![[Pasted image 20241026092732.png]]
 
 ## BatchNorm
 
@@ -60,6 +62,8 @@ y_i = \gamma \hat{x}_i + \beta
 $$
 
 ## RMSNorm
+- [ ] [\[1910.07467\] Root Mean Square Layer Normalization](https://arxiv.org/abs/1910.07467)
+- [ ] [\[2305.14858\] Pre-RMSNorm and Pre-CRMSNorm Transformers: Equivalent and Efficient Pre-LN Transformers](https://arxiv.org/abs/2305.14858)
 
 $$
 % RMS Normalization

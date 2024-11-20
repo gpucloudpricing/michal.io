@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-16T14:35:33-04:00
+time_modified: 2024-10-23T22:21:43-04:00
 time_created: 2024-10-15T23:57:54-04:00
 ---
 - [ ] [GitHub - srush/awesome-o1](https://github.com/srush/awesome-o1/)

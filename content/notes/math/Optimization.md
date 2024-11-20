@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-03T21:05:16-04:00
+time_modified: 2024-10-22T10:18:03-04:00
 time_created: 2024-08-23T21:53:43-04:00
 ---
 
@@ -36,6 +36,9 @@ time_created: 2024-08-23T21:53:43-04:00
 
 
 ## Schedules
+
+
+![[Pasted image 20241022100402.png]]
 
 ## Regularization
 

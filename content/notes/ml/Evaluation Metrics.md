@@ -1,4 +1,8 @@
-
+---
+time_modified: 2024-10-28T09:47:35-04:00
+time_created: 2023-12-09T00:06:17-05:00
+---
+![[Pasted image 20241028082449.png]]
 
 ## Classification
 

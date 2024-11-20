@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-06T22:18:32-04:00
+time_modified: 2024-10-30T15:59:10-04:00
 time_created: 2024-09-17T22:41:56-04:00
 ---
 
@@ -10,4 +10,4 @@ time_created: 2024-09-17T22:41:56-04:00
 - [ ] [GitHub - linkedin/Liger-Kernel: Efficient Triton Kernels for LLM Training](https://github.com/linkedin/Liger-Kernel)
 - [ ] [unsloth/unsloth/kernels at main · unslothai/unsloth · GitHub](https://github.com/unslothai/unsloth/tree/main/unsloth/kernels)
 - [ ] [GitHub - sustcsonglin/flash-linear-attention: Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton](https://github.com/sustcsonglin/flash-linear-attention)
-- [ ] 
+- [ ] [Triton Kernel Compilation Stages | PyTorch](https://pytorch.org/blog/triton-kernel-compilation-stages/)

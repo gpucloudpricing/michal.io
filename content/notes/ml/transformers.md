@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-13T02:32:00-04:00
+time_modified: 2024-11-05T10:08:11-05:00
 time_created: 2023-12-09T00:06:17-05:00
 ---
 - [ ] [A Mathematical Framework for Transformer Circuits](https://transformer-circuits.pub/2021/framework/index.html)
@@ -112,6 +112,9 @@ Can't use batchnorm in causal models because it leads to information leakage (si
 ### Feed Forward
 
 
+#### SwiGLU
+
+
 ### Activation Functions
 
 
@@ -128,6 +131,22 @@ Can't use batchnorm in causal models because it leads to information leakage (si
 
 
 ### Context Length
+
+[[Long Context Transformers]]
+
+## Transformer Variants
+
+
+### nGPT - Normalized Transformer
+
+
+### TokenFormer
+[[2024-11-03 - TokenFormer - RETHINKING TRANSFORMER SCAL-ING WITH TOKENIZED MODEL PARAMETERS]]
+
+
+### Sigmoid Attention 
+
+
 
 
 

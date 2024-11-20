@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-08T21:41:08-04:00
+time_modified: 2024-10-30T15:46:52-04:00
 time_created: 2024-09-25T20:58:02-04:00
 ---
 #transformers 
@@ -7,7 +7,8 @@ time_created: 2024-09-25T20:58:02-04:00
 - [ ] [Long-Context LLM Extension - YouTube](https://www.youtube.com/watch?v=dc4chADushM)
 - [ ] [Everything About Long Context Fine-tuning](https://huggingface.co/blog/wenbopan/long-context-fine-tuning)
 
-
+- [ ] [\[2309.12307\] LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307)
+- [ ] [YouTube](https://www.youtube.com/live/gVeh6qzcGOc?si=gF71OxRao4WdDa-6)
 
 ## RoPE Expansion
 
@@ -24,7 +25,8 @@ time_created: 2024-09-25T20:58:02-04:00
 
 - [ ]  [RING Attention explained: 1 Mio Context Length - YouTube](https://www.youtube.com/watch?v=jTJcP8iyoOM)
 
-
+### Tree Attention
+- [ ] [\[2408.04093\] Tree Attention: Topology-aware Decoding for Long-Context Attention on GPU clusters](https://arxiv.org/abs/2408.04093)
 
 ## StreamingLLM
 

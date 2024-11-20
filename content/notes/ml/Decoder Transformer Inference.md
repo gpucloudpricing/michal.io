@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-13T02:47:31-04:00
+time_modified: 2024-10-28T10:45:24-04:00
 time_created: 2024-09-25T21:08:25-04:00
 ---
 #inference #llm 
@@ -24,6 +24,8 @@ Split up the prefill compute into chunks to reduce the units of work so that lar
 
 ## KV Cache
 
+![[Pasted image 20241028094703.png]]
+
 ### Grouped Query Attention
 
 Less Keys and Values, to reduce Key Value Cache
@@ -35,7 +37,7 @@ Avoid padding out samples with fixed size blocks, use proper paging, split up sa
 
 ### Sliding Window Attention => Rolling Buffer KV Cache
 - [ ] [Exploring the Latency/Throughput & Cost Space for LLM Inference // Timothée Lacroix // CTO Mistral - YouTube](https://www.youtube.com/watch?v=mYRqvB1_gRk)
-
+- [ ] [SKVQ: Sliding-window Key and Value Cache Quantization for Large Language Models - YouTube](https://www.youtube.com/watch?v=K8iqzH5pKkQ)
 
 ### Cross Layer KV Cache Sharing
 
@@ -59,10 +61,21 @@ Cache KV cache for common prefixes
 Use bf16, float8, int8 or smaller dtypes like int4 to save memory
 
 
+![[Pasted image 20241028094817.png]]
+
 ## Speculative Decoding
 
 
-[Dynamic Speculative Decoding](https://huggingface.co/blog/dynamic_speculation_lookahead)
+- [ ] [Dynamic Speculative Decoding](https://huggingface.co/blog/dynamic_speculation_lookahead)
+- [ ] [How Speculative Decoding Boosts vLLM Performance by up to 2.8x | vLLM Blog](https://blog.vllm.ai/2024/10/17/spec-decode.html)
+
+
+## Disaggregated Prefill and Decoding
+
+Do prefill on larger GPU then decode on smaller cheaper GPUs
+
+- [ ] [\[2401.09670\] DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving](https://arxiv.org/abs/2401.09670)
+- [ ] [DistServe: disaggregating prefill and decoding for goodput-optimized LLM inference - YouTube](https://www.youtube.com/watch?v=Bh-jlh5vlF0)
 
 
 ## Prefix Caching
@@ -81,6 +94,9 @@ Use bf16, float8, int8 or smaller dtypes like int4 to save memory
 
 ## Mixture of Experts
 Reduce compute, skipping experts
+
+
+See [[Mixture of Experts]]
 
 ## Quantization
 

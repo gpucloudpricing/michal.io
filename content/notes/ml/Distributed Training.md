@@ -1,5 +1,5 @@
 ---
-time_modified: 2024-10-15T12:16:24-04:00
+time_modified: 2024-10-27T21:31:46-04:00
 time_created: 2024-09-04T21:03:20-04:00
 ---
 # TLDR
@@ -24,6 +24,7 @@ Split Tensors into chunks
 
 ![[Pasted image 20241015121402.png]]
 
+- [ ] [\[Distributed w/ TorchTitan\] Introducing Async Tensor Parallelism in PyTorch - torchtitan - PyTorch Forums](https://discuss.pytorch.org/t/distributed-w-torchtitan-introducing-async-tensor-parallelism-in-pytorch/209487)
 ### Pipeline Parallelism
 
 Split model by layer, with each device holding a set of consecutive layers.
@@ -33,6 +34,7 @@ Naive pipeline parallelism leads to bubbles so batches are split into microbatch
 ![[Pasted image 20241015101045.png]]
 
 - [ ] [Introducing GPipe, an Open Source Library for Efficiently Training Large-scale N](https://research.google/blog/introducing-gpipe-an-open-source-library-for-efficiently-training-large-scale-neural-network-models/)
+- [ ] [\[2401.10241\] Zero Bubble Pipeline Parallelism](https://arxiv.org/abs/2401.10241)
 ## Sequence Parallelism
 
 For sequence models split the sequence and process subsequences on different devices
