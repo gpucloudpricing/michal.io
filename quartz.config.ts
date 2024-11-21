@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "michal.io",
-    ignorePatterns: ["private", "templates", ".obsidian", 'prompts'],
+    ignorePatterns: ["private", "templates", ".obsidian", 'prompts', 'Excalidraw'],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
