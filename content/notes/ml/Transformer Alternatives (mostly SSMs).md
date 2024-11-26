@@ -63,3 +63,17 @@ time_created: 2023-12-09T00:06:17-05:00
 ## Gated DeltaNets
 
 ![[Screenshot 2024-11-03 at 3.28.16 PM.png]]
+
+
+
+## Hymba
+- [ ] [\[2411.13676\] Hymba: A Hybrid-head Architecture for Small Language Models](https://arxiv.org/abs/2411.13676)
+[nvidia/Hymba-1.5B-Base · Hugging Face](https://huggingface.co/nvidia/Hymba-1.5B-Base)
+
+![[Pasted image 20241125154526.png]]
+
+![[Pasted image 20241125155231.png]]
+- [ ] claims parallel heads work better than stacking
+- [ ] adds register tokens (128)
+	- [ ] 
+- [ ] uses KV cache sharing across layers

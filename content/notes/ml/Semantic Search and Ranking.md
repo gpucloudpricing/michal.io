@@ -1,9 +1,5 @@
 
 #retrieval #word-embeddings #bert #colbert #search #crossencoders 
-# Semantic Search / Ranking
-
-
-
 
 
 - [ ] [GitHub - AnswerDotAI/rerankers: A lightweight, low-dependency, unified API to use all common reranking and cross-encoder models.](https://github.com/answerdotai/rerankers)

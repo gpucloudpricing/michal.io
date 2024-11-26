@@ -14,13 +14,6 @@ time_created: 2024-09-25T21:08:25-04:00
 Prefill vs generation, compute bound vs memory bound
 
 
-## Chunked Prefill (for batched inference)
-
-Split up the prefill compute into chunks to reduce the units of work so that large prefills do not interfere with other request doing generation in the same batch
-
-![[Pasted image 20241003220522.png]]
-
-- [ ] [\[2403.02310\] Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/abs/2403.02310)
 
 ## KV Cache
 
@@ -63,11 +56,22 @@ Use bf16, float8, int8 or smaller dtypes like int4 to save memory
 
 ![[Pasted image 20241028094817.png]]
 
+
+- [ ] [GitHub - NVIDIA/kvpress: LLM KV cache compression made easy](https://github.com/NVIDIA/kvpress)
 ## Speculative Decoding
 
 
 - [ ] [Dynamic Speculative Decoding](https://huggingface.co/blog/dynamic_speculation_lookahead)
 - [ ] [How Speculative Decoding Boosts vLLM Performance by up to 2.8x | vLLM Blog](https://blog.vllm.ai/2024/10/17/spec-decode.html)
+
+
+## Chunked Prefill (for batched inference)
+
+Split up the prefill compute into chunks to reduce the units of work so that large prefills do not interfere with other request doing generation in the same batch
+
+![[Pasted image 20241003220522.png]]
+
+- [ ] [\[2403.02310\] Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/abs/2403.02310)
 
 
 ## Disaggregated Prefill and Decoding

@@ -20,6 +20,7 @@ https://github.com/cmhungsteve/Awesome-Transformer-Attention
 
 ### Swin
 
+![[Pasted image 20241122185148.png]]
 
 ### DEIT
 

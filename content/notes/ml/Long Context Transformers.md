@@ -46,7 +46,13 @@ time_created: 2024-09-25T20:58:02-04:00
 
 
 
+## Transformer-XL
+
+![[Pasted image 20241123073457.png]]
+ 
 ## Longformer
+
+
 
 ## Linformer
 

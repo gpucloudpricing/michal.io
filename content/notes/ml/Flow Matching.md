@@ -2,6 +2,9 @@
 time_modified: 2024-10-24T21:45:44-04:00
 time_created: 2024-10-10T12:17:42-04:00
 ---
+- [ ] [Lecture 15: Flow Matching 1 (KAIST CS492D, Fall 2024) - YouTube](https://www.youtube.com/watch?v=B4FfBNKl2tg)
+- [ ] [Lecture 16: Flow Matching 2 (KAIST CS492D, Fall 2024) - YouTube](https://www.youtube.com/watch?v=TTftvNfSH6E)
+- [ ] 
 - [ ] [\[2210.02747\] Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747)
 - [ ] [Flow Matching: Simplifying and Generalizing Diffusion Models | Yaron Lipman - YouTube](https://www.youtube.com/watch?v=5ZSwYogAxYg)
 - [ ] https://github.com/janosh/awesome-normalizing-flows

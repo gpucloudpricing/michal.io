@@ -1,8 +1,19 @@
 #cv #segmentation
 
+
+## Semantic Segmentation
+
+## Instance Segmentation
+
+## Panoptic Segmentation
+
+
 # Models
 
 ## Unet
+
+
+## Mask R-CNN
 
 ## DeepLab
 
@@ -19,6 +30,19 @@
 # Losses
 
 
+
+# Tricks 
+
+## Upsampling
+
+### Bilinear Interpolation
+
+### Bicubic Interpolation
+
+### Transposed Convolution (Deconvolution / Upconvolution)
+
+![[Pasted image 20241122170638.png]]
+![[Pasted image 20241122170819.png]]
 # Datasets
 
 

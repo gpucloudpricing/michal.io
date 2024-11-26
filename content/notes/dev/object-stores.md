@@ -5,6 +5,10 @@
 
 ## S3
 
+### S3 Express Zone
+
+- [ ]  Added support for appends [Amazon S3 Express One Zone now supports the ability to append data to an object](https://simonwillison.net/2024/Nov/22/amazon-s3-append-data/)
+
 ## Cloudflare R2
 
 

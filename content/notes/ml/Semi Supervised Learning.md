@@ -1,4 +1,3 @@
-# Semi Supervised Learning
 
 
 - [Unified Semi-Supervised Learning](https://github.com/microsoft/Semi-supervised-learning)

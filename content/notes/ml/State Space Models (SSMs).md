@@ -31,3 +31,4 @@ time_created: 2024-09-09T12:50:05-04:00
 # Links
 - [ ] [On the Tradeoffs of State Space Models - YouTube](https://www.youtube.com/watch?v=ksRp_DIHWj4)
 - [ ] [Mamba: Linear-Time Sequence Modeling with Selective State Spaces (COLM Oral 2024) - YouTube](https://www.youtube.com/watch?v=X-7rgesJaGM&list=PL22oH4RYsSoOD2DXhB8zZLPtam3yesEwG&index=8)
+- [ ] [Is Mamba Capable of In-Context Learning? - YouTube](https://www.youtube.com/watch?v=q5-RPiBP2Bs)

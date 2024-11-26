@@ -1,6 +1,3 @@
-# Model Distillation and Transfer Learning
-
-
 
 ## Knowledge Distillation
 

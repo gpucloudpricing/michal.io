@@ -6,7 +6,7 @@ time_created: 2023-12-09T00:06:17-05:00
 
 - [ ] [Perspectives on diffusion – Sander Dieleman](https://sander.ai/2023/07/20/perspectives.html)
 - [ ] [YouTube - Diffusion Models from Scratch](https://youtu.be/B4oHJpEJBAA?si=iTiDR9_q-m4PfO83)
-
+- [ ] [Google Colab](https://colab.research.google.com/drive/1EyqALXFvgKGsTiFDALGEHH5-WnuGjOKU?usp=sharing)
 
 - [ ] [The Illustrated Stable Diffusion – Jay Alammar – Visualizing machine learning one concept at a time.](https://jalammar.github.io/illustrated-stable-diffusion/)
 - [ ] [Lesson 9: Deep Learning Foundations to Stable Diffusion, 2022 - YouTube](https://www.youtube.com/watch?v=_7rMfsA24Ls)

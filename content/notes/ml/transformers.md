@@ -9,6 +9,7 @@ time_created: 2023-12-09T00:06:17-05:00
 - [ ] [Towards Monosemanticity: Decomposing Language Models With Dictionary Learning](https://transformer-circuits.pub/2023/monosemantic-features)
 - [ ] [Softmax Linear Units](https://transformer-circuits.pub/2022/solu/index.html)
 - [ ] [Concrete Steps to Get Started in Transformer Mechanistic Interpretability — Neel Nanda](https://www.neelnanda.io/mechanistic-interpretability/getting-started)
+- [ ] [The Transformer Family Version 2.0 | Lil'Log](https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/)
 - [ ] Amazing series from 3Blue1Brown:
 	- [ ] [How large language models work, a visual intro to transformers | Chapter 5, Deep Learning - YouTube](https://www.youtube.com/watch?v=wjZofJX0v4M)
 	- [ ] [[Attention in transformers, visually explained | Chapter 6, Deep Learning - YouTube](https://www.youtube.com/watch?v=eMlx5fFNoYc)](https://www.youtube.com/watch?v=9-Jl0dxWQs8)
@@ -145,6 +146,9 @@ Can't use batchnorm in causal models because it leads to information leakage (si
 
 
 ### Sigmoid Attention 
+
+
+### Diff Transformer
 
 
 

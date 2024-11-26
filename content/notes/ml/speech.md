@@ -55,7 +55,7 @@ Separate source encoder for input sequence and "predictor" model that only predi
 ## TTS - Text to Speech
 - [ ] [TTS Arena - a Hugging Face Space by TTS-AGI](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
 
-
+- [ ] [GitHub - edwko/OuteTTS: Interface for OuteTTS models.](https://github.com/edwko/OuteTTS/tree/main)
 ### F5-TTS
 
 - [ ] [\[2410.06885\] F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching](https://arxiv.org/abs/2410.06885)
