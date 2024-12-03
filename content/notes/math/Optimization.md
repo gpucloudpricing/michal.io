@@ -28,9 +28,41 @@ time_created: 2024-08-23T21:53:43-04:00
 - [Lion 8 bit by lucidrains · Pull Request #188 · TimDettmers/bitsandbytes · GitHub](https://github.com/TimDettmers/bitsandbytes/pull/188)
 
 
+### Adam-mini
+- [ ] [GitHub - zyushun/Adam-mini: Code for Adam-mini: Use Fewer Learning Rates To Gain More https://arxiv.org/abs/2406.16793](https://github.com/zyushun/Adam-mini)
+
+### ADOPT
+- [ ] [GitHub - iShohei220/adopt: Official Implementation of "ADOPT: Modified Adam Can Converge with Any β2 with the Optimal Rate"](https://github.com/iShohei220/adopt)
 
 
+### MARS
+- [ ] [GitHub - AGI-Arena/MARS: The official implementation of MARS: Unleashing the Power of Variance Reduction for Training Large Models](https://github.com/AGI-Arena/MARS)
 
+### Cautious Optimizer
+- [ ] [GitHub - kyleliang919/C-Optim: When it comes to optimizers, it's always better to be safe than sorry](https://github.com/kyleliang919/C-Optim)
+
+### Kron
+- [ ] [fsdp\_optimizers/kron\_mars.py at main · ethansmith2000/fsdp\_optimizers · GitHub](https://github.com/ethansmith2000/fsdp_optimizers/blob/main/kron_mars.py)
+
+
+### Muon
+- [ ] [fsdp\_optimizers/soap.py at main · ethansmith2000/fsdp\_optimizers · GitHub](https://github.com/ethansmith2000/fsdp_optimizers/blob/main/soap.py)
+
+### SOAP
+- [ ] [fsdp\_optimizers/soap.py at main · ethansmith2000/fsdp\_optimizers · GitHub](https://github.com/ethansmith2000/fsdp_optimizers/blob/main/soap.py)
+
+### PSGD
+- [ ] [GitHub - lixilinx/psgd\_torch: Pytorch implementation of preconditioned stochastic gradient descent (Kron and affine preconditioner, low-rank approximation preconditioner and more)](https://github.com/lixilinx/psgd_torch)
+
+
+- [ ] [HeavyBall/heavyball at main · ClashLuke/HeavyBall · GitHub](https://github.com/ClashLuke/HeavyBall/tree/main/heavyball)
+### Schedule Free
+
+### Shampoo
+
+
+### AdEMAMix
+- [ ] [GitHub - nanowell/AdEMAMix-Optimizer-Pytorch: The AdEMAMix Optimizer: Better, Faster, Older.](https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch)
 
 ## Warmup
 

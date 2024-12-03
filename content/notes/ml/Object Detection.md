@@ -64,6 +64,12 @@
 - https://github.com/IDEA-Research/detrex
 
 
+### D-FINE
+- [ ] [GitHub - Peterande/D-FINE: D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement 💥💥💥](https://github.com/Peterande/D-FINE)
+
+
+### RT-DETR
+- [ ] [GitHub - lyuwenyu/RT-DETR: \[CVPR 2024\] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥](https://github.com/lyuwenyu/RT-DETR)
 
 # Tricks
 

@@ -142,6 +142,13 @@ Drop tokens with small gating weights
 
 ![[Pasted image 20241009200653.png]]
 
+
+
+
+### Multi Head MoE
+
+- [ ] [\[2411.16205\] MH-MoE: Multi-Head Mixture-of-Experts](https://arxiv.org/abs/2411.16205)
+
 ## MoE LLMs / Transformers
 
 

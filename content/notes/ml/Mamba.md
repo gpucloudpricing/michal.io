@@ -4,6 +4,7 @@ time_created: 2024-10-14T14:23:05-04:00
 ---
 #ssm 
 
+- [ ] [Mamba: The Hard Way](https://srush.github.io/annotated-mamba/hard.html)
 
 - [ ] https://goombalab.github.io/blog/2024/mamba2-part1-model/
 - [ ] [State Space Duality (Mamba-2) Part II - The Theory | Goomba Lab](https://goombalab.github.io/blog/2024/mamba2-part2-theory/)
@@ -11,6 +12,7 @@ time_created: 2024-10-14T14:23:05-04:00
 - [ ] [State Space Duality (Mamba-2) Part IV - The Systems | Goomba Lab](https://goombalab.github.io/blog/2024/mamba2-part4-systems/)
 - [ ] [YouTube](https://youtu.be/iUfUFKQLGBQ?si=fNnZ9R8q4QhDbmyr)
 - [ ] [On the Tradeoffs of State Space Models - YouTube](https://www.youtube.com/watch?v=ksRp_DIHWj4)
+- [ ] [A Visual Guide to Mamba and State Space Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-mamba-and-state)
 
 
 # Intro

@@ -50,10 +50,9 @@ https://github.com/hananshafi/vits-for-small-scale-datasets
 - [GitHub - ShoufaChen/AdaptFormer: [NeurIPS 2022] Implementation of "AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition"](https://github.com/ShoufaChen/AdaptFormer)
 
 ## Videos
-- [Transformers in Vision: From Zero to Hero (2021)](https://www.youtube.com/watch?v=J-utjBdLCTo)
-- [Workshop on Attention and Transformers in Vision | CVPR 2022](https://www.youtube.com/playlist?list=PLki3HkfgNEsKa0vP-mZCfWccEFyrT93y_)
-- [Beyond Convolutional Neural Networks | CVPR 2022 Tutorial](https://www.youtube.com/watch?v=QdGWCUOO6xw)
-
+- [ ] [Transformers in Vision: From Zero to Hero (2021)](https://www.youtube.com/watch?v=J-utjBdLCTo)
+- [ ] [Workshop on Attention and Transformers in Vision | CVPR 2022](https://www.youtube.com/playlist?list=PLki3HkfgNEsKa0vP-mZCfWccEFyrT93y_)
+- [ ] [Beyond Convolutional Neural Networks | CVPR 2022 Tutorial](https://www.youtube.com/watch?v=QdGWCUOO6xw)
 - [ ] [CS886: Lecture 16: Vision Transformer - Part 1 - YouTube](https://www.youtube.com/watch?v=YklCcqu0Xm0)
 
 - [GitHub - SwinTransformer/AiT](https://github.com/SwinTransformer/AiT)

@@ -3,6 +3,17 @@ time_modified: 2024-10-13T01:44:12-04:00
 time_created: 2024-10-03T23:15:33-04:00
 ---
 
+1. pretraining
+	1. filtered for quality
+	2. include instruction tuning data
+	3. synthetic data
+	4. weighted sampling from different sources / categories
+2. long context training
+3. annealing with high quality data
+4. supervised finetuning
+5. RLHF / DPO
+
+
 - [ ] [Common LLM Settings - Google Sheets](https://docs.google.com/spreadsheets/d/14vbBbuRMEHoqeuMHkTfw3uiZVmyXNuoSp8s-aHvfvZk/edit?gid=0#gid=0)
 
 - [ ] [torchtune: Easy and Accessible Finetuning in Native PyTorch - Evan Smothers, Meta - YouTube](https://www.youtube.com/watch?v=43X9E25-Qg0)

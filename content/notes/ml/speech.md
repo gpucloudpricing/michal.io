@@ -75,3 +75,7 @@ Separate source encoder for input sequence and "predictor" model that only predi
 
 - [ ] [Olewave - YouTube](https://www.youtube.com/@olewave/videos)
 - [ ] [WAVLab - YouTube](https://www.youtube.com/@wavlab3016/videos)
+
+
+- [ ] [Latest Advancements in Speech Recognition - YouTube](https://youtu.be/X50Ca2aGQvM?si=jRHdstKQ1zdHebB1)
+- [ ] [Hearing the AGI from GMM HMM to GPT 4o Yu Zhang - November 15th LTI Colloquium Speaker - Yu Zhang - YouTube](https://youtu.be/pRUrO0x637A?si=ybJ-fo_zXYxlCPPU)

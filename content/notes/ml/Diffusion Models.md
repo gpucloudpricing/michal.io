@@ -2,7 +2,7 @@
 time_modified: 2024-10-23T22:21:43-04:00
 time_created: 2023-12-09T00:06:17-05:00
 ---
-
+- [ ] [Diffusion Meets Flow Matching](https://diffusionflow.github.io/)
 
 - [ ] [Perspectives on diffusion – Sander Dieleman](https://sander.ai/2023/07/20/perspectives.html)
 - [ ] [YouTube - Diffusion Models from Scratch](https://youtu.be/B4oHJpEJBAA?si=iTiDR9_q-m4PfO83)

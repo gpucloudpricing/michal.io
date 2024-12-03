@@ -62,8 +62,15 @@ GPT
 ![[Pasted image 20240925224133.png]]
 
 
+![[Screenshot 2024-11-30 at 10.31.17 AM.png]]
 
+- [ ] [LLMs: A Journey Through Time and Architecture - YouTube](https://www.youtube.com/watch?v=itIab9ZTAqk)
+![[Pasted image 20241202230555.png]]
+![[Pasted image 20241202230749.png]]
 
+![[Pasted image 20241202230819.png]]
+
+![[Pasted image 20241202231045.png]]
 ## Encoder
 
 BERT
@@ -151,6 +158,10 @@ Can't use batchnorm in causal models because it leads to information leakage (si
 ### Diff Transformer
 
 
+### Block Transformer
+- [ ] [GitHub - itsnamgyu/block-transformer: Block Transformer: Global-to-Local Language Modeling for Fast Inference (Official Code)](https://github.com/itsnamgyu/block-transformer)
+
+
 
 
 
@@ -217,6 +228,7 @@ Can't use batchnorm in causal models because it leads to information leakage (si
 ### GGML / LLAMA.CPP
 
 [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml)
+[llama.cpp guide - Running LLMs locally, on any hardware, from scratch ::](https://steelph0enix.github.io/posts/llama-cpp-guide/)
 
 ## Open Models
 
