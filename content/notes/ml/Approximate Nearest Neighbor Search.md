@@ -16,6 +16,7 @@
 - [pynndescent](https://github.com/lmcinnes/pynndescent)
 - [GitHub - rapidsai/raft: RAFT contains fundamental widely-used algorithms and primitives for data science, graph and machine learning.](https://github.com/rapidsai/raft)
 - [GitHub - spotify/voyager: 🛰️ Voyager is an approximate nearest-neighbor search library for Python and Java with a focus on ease of use, simplicity, and deployability.](https://github.com/spotify/voyager)
+- [GitHub - BlaiseMuhirwa/flatnav: Fast and minimal header-only graph-based index for approximate nearest neighbor search (ANNS). https://blaisemuhirwa.github.io/flatnav](https://github.com/BlaiseMuhirwa/flatnav)
 
 [GitHub - meilisearch/arroy: Annoy-inspired Approximate Nearest Neighbors in Rust, based on LMDB and optimized for memory usage :boom:](https://github.com/meilisearch/arroy)
 # Approximate Nearest Neighbor Search / Vector Search

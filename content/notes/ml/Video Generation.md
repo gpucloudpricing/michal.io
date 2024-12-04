@@ -14,3 +14,10 @@ time_created: 2024-10-03T19:28:20-04:00
 ![[Pasted image 20241203091417.png]]
 
 ![[Pasted image 20241203091539.png]]
+
+
+
+
+## Open Sora
+
+- [ ] [\[2412.00131\] Open-Sora Plan: Open-Source Large Video Generation Model](https://arxiv.org/abs/2412.00131)

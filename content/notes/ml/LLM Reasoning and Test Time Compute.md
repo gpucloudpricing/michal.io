@@ -6,6 +6,7 @@ time_created: 2024-10-15T23:57:54-04:00
 - [ ] [The Hitchhiker's Guide to Reasoning - YouTube](https://youtu.be/S5l5OvJ01ws?si=0IIwmoMhh5xeDJVv)
 - [ ] - [ ] [YouTube][Noam Brown from OpenAI on test time compute and planning](https://youtu.be/eaAonE58sLU?si=s0weM1yKvKm7x9AP) 
 - [ ] [YouTube](https://youtu.be/_Bw5o55SRL8?si=p2udkdNMPsbOHNLn)
+- [ ] [OpenAI's o1 using "search" was a PSYOP - by Nathan Lambert](https://www.interconnects.ai/p/openais-o1-using-search-was-a-psyop)
 
 
 

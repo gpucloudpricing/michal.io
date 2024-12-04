@@ -12,6 +12,9 @@
 ## Cloudflare R2
 
 
+## Tigris
+
+- [ ] [Tigris Object Storage Documentation](https://www.tigrisdata.com/docs/pricing/)
 
 # Transfers
 - https://github.com/skyplane-project/skyplane

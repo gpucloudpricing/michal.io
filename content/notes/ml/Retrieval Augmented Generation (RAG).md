@@ -65,6 +65,8 @@ Use an LLM to enrich the chunked segment with info from the whole document
 
 ### Gecko - Versatile Text Embeddings Distilled from Large Language Models
 
+[[Gecko - Versatile Text Embeddings Distilled from Large Language Models]]
+
 ### Binary Embeddings
 
 
@@ -160,6 +162,8 @@ Speed up generation by asking LLM to as an example output csv data instead of JS
 
 # End to End LLMs with Retrieval
 
+[[Retrieval Augmented Models]]
+
 ## kNN-LM
 
 ## REALM
@@ -204,3 +208,7 @@ Speed up generation by asking LLM to as an example output csv data instead of JS
 
 - [ ] [What Late Chunking Really Is & What It’s Not: Part II](https://jina.ai/news/what-late-chunking-really-is-and-what-its-not-part-ii/)
 - [ ] [Stanford CS25: V3 I Retrieval Augmented Language Models - YouTube](https://www.youtube.com/watch?v=mE7IDf2SmJg)
+
+
+
+- [ ] [GitHub - athina-ai/rag-cookbooks: This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.](https://github.com/athina-ai/rag-cookbooks)

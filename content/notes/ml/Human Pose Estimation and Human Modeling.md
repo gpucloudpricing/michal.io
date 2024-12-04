@@ -5,6 +5,8 @@ time_created: 2023-12-09T00:06:17-05:00
 
 # Pose Estimation
 
+- [ ] [\[2412.01562\] Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle](https://arxiv.org/abs/2412.01562)
+
 ## Top Down
 
 ## Bottom Up

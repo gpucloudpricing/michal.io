@@ -8,3 +8,7 @@ time_created: 2024-10-28T13:46:05-04:00
 - [ ] [\[2404.06395\] MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies](https://arxiv.org/abs/2404.06395)
 - [ ] [\[2410.11190\] Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities](https://arxiv.org/abs/2410.11190)
 - [ ] [\[2312.09241\] TinyGSM: achieving \>80% on GSM8k with small language models](https://arxiv.org/abs/2312.09241)
+
+
+
+- [ ] [\[2412.01822v1\] VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models](https://arxiv.org/abs/2412.01822v1)
