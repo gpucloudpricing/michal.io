@@ -57,7 +57,9 @@
 ### DETR
 
 
+![[Pasted image 20241206135948.png]]
 
+![[Pasted image 20241206140038.png]]
 
 - [DINO: DETR](https://github.com/IDEACVR/DINO)
 
@@ -70,6 +72,10 @@
 
 ### RT-DETR
 - [ ] [GitHub - lyuwenyu/RT-DETR: \[CVPR 2024\] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥](https://github.com/lyuwenyu/RT-DETR)
+
+
+## DEIM
+- [ ] [\[2412.04234v1\] DEIM: DETR with Improved Matching for Fast Convergence](https://arxiv.org/abs/2412.04234v1)
 
 # Tricks
 

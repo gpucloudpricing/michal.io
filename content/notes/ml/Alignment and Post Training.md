@@ -9,5 +9,6 @@ time_created: 2024-10-03T19:37:24-04:00
 
 ## PPO
 
+- [ ] [From Zero to PPO: Understanding the Path to Helpful AI Models](https://www.adaptive-ml.com/post/from-zero-to-ppo)
 
 ## DPO 

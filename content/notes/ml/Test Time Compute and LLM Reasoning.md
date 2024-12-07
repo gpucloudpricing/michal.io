@@ -7,8 +7,9 @@ time_created: 2024-10-15T23:57:54-04:00
 - [ ] - [ ] [YouTube][Noam Brown from OpenAI on test time compute and planning](https://youtu.be/eaAonE58sLU?si=s0weM1yKvKm7x9AP) 
 - [ ] [YouTube](https://youtu.be/_Bw5o55SRL8?si=p2udkdNMPsbOHNLn)
 - [ ] [OpenAI's o1 using "search" was a PSYOP - by Nathan Lambert](https://www.interconnects.ai/p/openais-o1-using-search-was-a-psyop)
+- [ ] [Late Takes on OpenAI o1](https://www.alexirpan.com/2024/12/04/late-o1-thoughts.html)
 
-
+- [ ] [Neurips 2024 Tutorial: Meta-decoding algorithms](https://cmu-l3.github.io/neurips2024-inference-tutorial/)
 
 - [ ] [GitHub - srush/awesome-o1](https://github.com/srush/awesome-o1/)
 - [ ] [LLM Reasoning Papers - a philschmid Collection](https://huggingface.co/collections/philschmid/llm-reasoning-papers-66e6abbdf5579b829f214de8)
@@ -17,6 +18,7 @@ time_created: 2024-10-15T23:57:54-04:00
 
 - [ ] [\[2410.10630\] Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [ ] [\[2411.19865\] Reverse Thinking Makes LLMs Stronger Reasoners](https://arxiv.org/abs/2411.19865)
+
 
 
 

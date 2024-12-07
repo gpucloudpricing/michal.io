@@ -2,7 +2,37 @@
 
 - [ ] [[Diffusion Models]]
 - [ ] [[Video Generation]]
-- [ ] [[Flow Matching]]
+- [ ] [[Flow Matching - Rectified Flows]]
+
+
+
+
+# Adversarial (GANs)
+
+
+# Autoregressive
+
+
+
+
+## Liquid
+![[Pasted image 20241207103417.png]]
+
+- [ ] [\[2412.04332\] Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332)
+# Diffusion
+
+
+
+# Patterns
+
+## Latent Space
+
+### VAE 
+
+### VQVAE
+
+
+
 
 
 - [ ] [\[2312.02116\] GIVT: Generative Infinite-Vocabulary Transformers](https://arxiv.org/abs/2312.02116)

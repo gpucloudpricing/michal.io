@@ -10,5 +10,7 @@ time_created: 2024-10-28T13:46:05-04:00
 - [ ] [\[2312.09241\] TinyGSM: achieving \>80% on GSM8k with small language models](https://arxiv.org/abs/2312.09241)
 
 
+## Vision Language Models
 
 - [ ] [\[2412.01822v1\] VLsI: Verbalized Layers-to-Interactions from Large to Small Vision Language Models](https://arxiv.org/abs/2412.01822v1)
+- [ ] [Introducing Moondream 0.5B: The World’s Smallest Vision-Language Model](https://moondream.ai/blog/introducing-moondream-0-5b)

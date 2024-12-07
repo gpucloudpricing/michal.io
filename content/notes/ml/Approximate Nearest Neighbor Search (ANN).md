@@ -32,3 +32,4 @@
 - [GitHub - asg017/sqlite-vec: A vector search SQLite extension that runs anywhere!](https://github.com/asg017/sqlite-vec)
 
 ### Databases and Search Engines
+- [ ] [GitHub - tensorchord/VectorChord: Scalable, Fast, and Disk-friendly Vector search in Postgres](https://github.com/tensorchord/VectorChord)

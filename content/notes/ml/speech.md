@@ -6,7 +6,6 @@ time_created: 2023-12-09T00:06:17-05:00
 #asr 
 
 - [ ] [Open ASR Leaderboard - a Hugging Face Space by hf-audio](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
-
 - [ ] https://github.com/openai/whisper
 - [ ] https://github.com/ggerganov/whisper.cpp
 - [ ] [ylacombe/whisper-large-v3-turbo · Hugging Face](https://huggingface.co/ylacombe/whisper-large-v3-turbo)
@@ -54,7 +53,7 @@ Separate source encoder for input sequence and "predictor" model that only predi
 
 ## TTS - Text to Speech
 - [ ] [TTS Arena - a Hugging Face Space by TTS-AGI](https://huggingface.co/spaces/TTS-AGI/TTS-Arena)
-
+- [ ] [GitHub - fishaudio/fish-speech: SOTA Open Source TTS](https://github.com/fishaudio/fish-speech)
 - [ ] [GitHub - edwko/OuteTTS: Interface for OuteTTS models.](https://github.com/edwko/OuteTTS/tree/main)
 ### F5-TTS
 

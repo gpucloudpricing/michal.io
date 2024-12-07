@@ -64,6 +64,10 @@ time_created: 2024-08-23T21:53:43-04:00
 ### AdEMAMix
 - [ ] [GitHub - nanowell/AdEMAMix-Optimizer-Pytorch: The AdEMAMix Optimizer: Better, Faster, Older.](https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch)
 
+
+## Laprop
+
+[HeavyBall/heavyball/foreach\_laprop.py at main · ClashLuke/HeavyBall · GitHub](https://github.com/ClashLuke/HeavyBall/blob/main/heavyball/foreach_laprop.py)
 ## Warmup
 
 

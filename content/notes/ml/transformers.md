@@ -18,6 +18,7 @@ time_created: 2023-12-09T00:06:17-05:00
 	- [ ] [What is a Transformer? (Transformer Walkthrough Part 1/2) - YouTube](https://youtu.be/bOYE6E8JrtU?si=5JboYdaRBEQ4kRD0)
 	- [ ] [Implementing GPT-2 From Scratch (Transformer Walkthrough Part 2/2) - YouTube](https://youtu.be/dsjUDacBw8o?si=mYdUuzZ_RdLKu_gs)
 	- [ ] [A Walkthrough of A Mathematical Framework for Transformer Circuits - YouTube](https://youtu.be/KV5gbOmHbjU?si=KHB4B7PyQdjYR-Kt)
+- [ ] [\[Public, Approved\] Intro to Transformers - Google Slides](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/mobilepresent?slide=id.g31364026ad_3_2)
 
 
 ## Encoder-Decoder

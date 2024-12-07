@@ -212,3 +212,4 @@ Speed up generation by asking LLM to as an example output csv data instead of JS
 
 
 - [ ] [GitHub - athina-ai/rag-cookbooks: This repository contains various advanced techniques for Retrieval-Augmented Generation (RAG) systems.](https://github.com/athina-ai/rag-cookbooks)
+- [ ] [GitHub - RUC-NLPIR/FlashRAG: ⚡FlashRAG: A Python Toolkit for Efficient RAG Research](https://github.com/RUC-NLPIR/FlashRAG)

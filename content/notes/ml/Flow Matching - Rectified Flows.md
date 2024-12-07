@@ -13,3 +13,12 @@ time_created: 2024-10-10T12:17:42-04:00
 - [ ] [Shape Analysis (Lectures 17, extra content): Continuous normalizing flows - YouTube](https://youtu.be/RthYBGDk7lQ?si=iwAKQ3w4wttTs4au)
 - [ ] ["Normalizing Flows" by Didrik Nielsen - YouTube](https://www.youtube.com/watch?v=bu9WZ0RFG0U)
 - [ ] [Flow matching : The next frontier in Generative AI | by Siddhant Rai | Medium](https://medium.com/@rsiddhant73/flow-matching-the-next-frontier-in-generative-ai-7cf02ebbe859)
+- [ ] [blog - Flow With What You Know](https://drscotthawley.github.io/blog/posts/FlowModels.html)
+
+
+
+
+
+![[Pasted image 20241205224754.png]]
+
+[23578 Efficient Large Vision Models - YouTube](https://youtu.be/lirjgIgngUE?si=7BJ76ewTcSF_zPPB&t=2370)

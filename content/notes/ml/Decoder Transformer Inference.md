@@ -58,6 +58,10 @@ Use bf16, float8, int8 or smaller dtypes like int4 to save memory
 
 
 - [ ] [GitHub - NVIDIA/kvpress: LLM KV cache compression made easy](https://github.com/NVIDIA/kvpress)
+
+### Other
+- [ ] [\[2410.03960\] SwiftKV: Fast Prefill-Optimized Inference with Knowledge-Preserving Model Transformation](https://arxiv.org/abs/2410.03960)
+
 ## Speculative Decoding
 
 
