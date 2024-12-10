@@ -10,3 +10,4 @@
 
 - [ ] [\[2412.01818\] \[CLS\] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster](https://arxiv.org/abs/2412.01818)
 - [ ] [\[2411.03312v1\] Inference Optimal VLMs Need Only One Visual Token but Larger Models](https://arxiv.org/abs/2411.03312v1)
+- [ ] [\[2412.06263\] iLLaVA: An Image is Worth Fewer Than 1/3 Input Tokens in Large Multimodal Models](https://arxiv.org/abs/2412.06263)

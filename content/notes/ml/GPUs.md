@@ -19,6 +19,9 @@ time_created: 2024-10-03T11:13:34-04:00
 - [ ] [ml-engineering/compute/accelerator at master · stas00/ml-engineering · GitHub](https://github.com/stas00/ml-engineering/tree/master/compute/accelerator)
 
 
+![[Pasted image 20241207121635.png]]
+
+
 ## Tensor Cores
 
 

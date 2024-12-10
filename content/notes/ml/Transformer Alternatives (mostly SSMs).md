@@ -5,13 +5,15 @@ time_created: 2023-12-09T00:06:17-05:00
 
 ![[Pasted image 20241107101436.png]]
 
-- [retnet](https://github.com/microsoft/unilm/tree/master/retnet)
 
-- [GitHub - BlinkDL/RWKV-LM: RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx\_len, and free sentence embedding.](https://github.com/BlinkDL/RWKV-LM)
-	- [GitHub - BlinkDL/ChatRWKV: ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.](https://github.com/BlinkDL/ChatRWKV)
+- [ ] [GitHub - sustcsonglin/flash-linear-attention: Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton](https://github.com/sustcsonglin/flash-linear-attention)
+- [ ] [retnet](https://github.com/microsoft/unilm/tree/master/retnet)
 
-- [[2306.11197] Sparse Modular Activation for Efficient Sequence Modeling](https://arxiv.org/abs/2306.11197)
-- [GitHub - renll/SeqBoat: [NeurIPS 2023] Sparse Modular Activation for Efficient Sequence Modeling](https://github.com/renll/SeqBoat)
+- [ ] [GitHub - BlinkDL/RWKV-LM: RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, "infinite" ctx\_len, and free sentence embedding.](https://github.com/BlinkDL/RWKV-LM)
+	- [ ] [GitHub - BlinkDL/ChatRWKV: ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.](https://github.com/BlinkDL/ChatRWKV)
+
+- [ ] [[2306.11197] Sparse Modular Activation for Efficient Sequence Modeling](https://arxiv.org/abs/2306.11197)
+- [ ] [GitHub - renll/SeqBoat: [NeurIPS 2023] Sparse Modular Activation for Efficient Sequence Modeling](https://github.com/renll/SeqBoat)
 
 
 ## RWKV
@@ -67,8 +69,12 @@ time_created: 2023-12-09T00:06:17-05:00
 
 ## DeltaNet
 
+[[DeltaNet]]
+
 ## Gated DeltaNets
 
+- [ ] [\[2412.06464\] Gated Delta Networks: Improving Mamba2 with Delta Rule](https://arxiv.org/abs/2412.06464)
+- [ ] [GitHub - NVlabs/GatedDeltaNet: Official PyTorch Implementation of Gated Delta Networks: Improving Mamba2 with Delta Rule](https://github.com/NVlabs/GatedDeltaNet)
 ![[Screenshot 2024-11-03 at 3.28.16 PM.png]]
 
 

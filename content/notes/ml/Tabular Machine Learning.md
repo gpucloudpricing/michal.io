@@ -19,7 +19,7 @@ time_created: 2024-09-09T16:17:47-04:00
 - [GitHub - pyg-team/pytorch-frame: Tabular Deep Learning Library for PyTorch](https://github.com/pyg-team/pytorch-frame)
 
 
-
+- [ ] [\[2410.08511\] Distributionally robust self-supervised learning for tabular data](https://arxiv.org/abs/2410.08511)
 ## LLMs
 - [ ] [\[2410.04739\] TableRAG: Million-Token Table Understanding with Language Models](https://arxiv.org/abs/2410.04739)
 

@@ -7,3 +7,6 @@ Also potentially see if you can mix different forms of attention with shared par
 
 
 Also see mix transformer and mixture of depth
+
+
+- [ ] MOE that lets you skip full attention

@@ -12,6 +12,11 @@
 
 # Autoregressive
 
+- [ ] [\[2410.10812\] HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/abs/2410.10812)
+- [ ] [\[2412.01819\] Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis](https://arxiv.org/abs/2412.01819)
+- [ ] [\[2412.04431\] Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431)
+- [ ] [\[2412.04332\] Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332)
+- [ ] [\[2412.03069\] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069)
 
 
 
@@ -43,7 +48,8 @@
 - [ ] [\[2412.01199\] TinyFusion: Diffusion Transformers Learned Shallow](https://arxiv.org/abs/2412.01199)
 
 
-
+- [ ] [\[2412.03177\] PatchDPO: Patch-level DPO for Finetuning-free Personalized Image Generation](https://arxiv.org/abs/2412.03177)
+- [ ] [\[2412.06774\] Visual Lexicon: Rich Image Features in Language Space](https://arxiv.org/abs/2412.06774)
 
 
 

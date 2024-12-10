@@ -2,7 +2,9 @@
 time_modified: 2024-10-01T22:49:57-04:00
 time_created: 2023-12-09T00:06:17-05:00
 ---
-# Recommendation Systems
+#recsys
+
+- [ ] [\[2411.18814\] Unifying Generative and Dense Retrieval for Sequential Recommendation](https://arxiv.org/abs/2411.18814)
 
 
 ## Two Tower

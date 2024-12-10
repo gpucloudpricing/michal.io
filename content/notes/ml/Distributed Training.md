@@ -173,6 +173,7 @@ all-gather, all-reduce, broadcast, reduce, reduce-scatter as well as point-to-po
 - [ ] [How to train a model on 10k H100 GPUs?](https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html) #distributed 
 - [ ] [Self contained example of how pipeline parallel works (AFAB and 1F1B) in 200 LOC · GitHub](https://gist.github.com/3outeille/a3d4d91bb07af64c8f33d5aaee5145fe)
 - [ ] [ml-engineering/training/model-parallelism at master · stas00/ml-engineering · GitHub](https://github.com/stas00/ml-engineering/tree/master/training/model-parallelism)
+- [ ] [GitHub - pytorch/torchtitan: A native PyTorch Library for large model training](https://github.com/pytorch/torchtitan)
 
 
 
@@ -185,4 +186,7 @@ all-gather, all-reduce, broadcast, reduce, reduce-scatter as well as point-to-po
 - [ ] [GitHub - pytorch/torchtitan: A native PyTorch Library for large model training](https://github.com/pytorch/torchtitan)
 - [ ] Fairscale
 - [ ] Megatron
+- [ ] Torchtitan
+	- [ ] [GitHub - pytorch/torchtitan: A native PyTorch Library for large model training](https://github.com/pytorch/torchtitan)
+	- [ ] [\[2410.06511\] TorchTitan: One-stop PyTorch native solution for production ready LLM pre-training](https://arxiv.org/abs/2410.06511)
 

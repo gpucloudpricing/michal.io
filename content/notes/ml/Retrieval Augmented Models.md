@@ -9,6 +9,9 @@ Some benefits include:
 3. Scale better than large models
 4. Can be audited and corrected without retraining
 
+- [ ] [REML-tutorial-slides.pdf](https://retrieval-enhanced-ml.github.io/sigir-ap2024-tutorial/static/REML-tutorial-slides.pdf)
+- [ ] [\[2407.12982\] Retrieval-Enhanced Machine Learning: Synthesis and Opportunities](https://arxiv.org/abs/2407.12982)
+
 
 ## Vision
 

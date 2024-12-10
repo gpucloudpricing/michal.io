@@ -47,7 +47,7 @@ time_created: 2024-08-23T21:53:43-04:00
 
 ### Muon
 - [ ] [fsdp\_optimizers/soap.py at main · ethansmith2000/fsdp\_optimizers · GitHub](https://github.com/ethansmith2000/fsdp_optimizers/blob/main/soap.py)
-
+- [ ] [Muon: An optimizer for hidden layers in neural networks | Keller Jordan blog](https://kellerjordan.github.io/posts/muon/)
 ### SOAP
 - [ ] [fsdp\_optimizers/soap.py at main · ethansmith2000/fsdp\_optimizers · GitHub](https://github.com/ethansmith2000/fsdp_optimizers/blob/main/soap.py)
 
@@ -56,8 +56,15 @@ time_created: 2024-08-23T21:53:43-04:00
 
 
 - [ ] [HeavyBall/heavyball at main · ClashLuke/HeavyBall · GitHub](https://github.com/ClashLuke/HeavyBall/tree/main/heavyball)
-### Schedule Free
 
+### Schedule Free
+- [ ] [Aaron Defazio Talk (12.06.2024, UCLA) - YouTube](https://www.youtube.com/watch?v=QUgi3-XuZ3g)
+	- [ ] Linear Decay works better than Cosine when combined with warmup
+
+![[Pasted image 20241207160803.png]]
+![[Pasted image 20241207161821.png]]
+
+![[Pasted image 20241207162013.png]]
 ### Shampoo
 
 
@@ -65,9 +72,25 @@ time_created: 2024-08-23T21:53:43-04:00
 - [ ] [GitHub - nanowell/AdEMAMix-Optimizer-Pytorch: The AdEMAMix Optimizer: Better, Faster, Older.](https://github.com/nanowell/AdEMAMix-Optimizer-Pytorch)
 
 
-## Laprop
+### Laprop
 
 [HeavyBall/heavyball/foreach\_laprop.py at main · ClashLuke/HeavyBall · GitHub](https://github.com/ClashLuke/HeavyBall/blob/main/heavyball/foreach_laprop.py)
+
+
+### APOLLO: SGD-like Memory, AdamW-level Performance
+- [ ] [\[2412.05270\] APOLLO: SGD-like Memory, AdamW-level Performance](https://arxiv.org/abs/2412.05270)
+- [ ] [GitHub - zhuhanqing/APOLLO: APOLLO: SGD-like Memory, AdamW-level Performance](https://github.com/zhuhanqing/APOLLO)
+
+
+### SAM - Sharpness-Aware Minimization
+- [ ] [\[2010.01412\] Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412)
+
+
+### Learned Optimizers
+
+- [ ] [\[2406.00153\] $μ$LO: Compute-Efficient Meta-Generalization of Learned Optimizers](https://arxiv.org/abs/2406.00153)
+	- [ ] [GitHub - bentherien/mu\_learned\_optimization: \[Oral; Neurips OPT2024 \] μLO: Compute-Efficient Meta-Generalization of Learned Optimizers](https://github.com/bentherien/mu_learned_optimization)
+
 ## Warmup
 
 
@@ -81,6 +104,11 @@ time_created: 2024-08-23T21:53:43-04:00
 ### Weight Decay
 
 ### Gradient Clipping
+
+
+
+
+## EMA - Exponential Moving Averages of Parameters
 
 
 ## Batch Size vs Learning Rate
@@ -103,6 +131,8 @@ time_created: 2024-08-23T21:53:43-04:00
 - [GitHub - Facebook/Ax: Adaptive Experimentation Platform](https://github.com/facebook/Ax)
 - [GitHub - pytorch/botorch: Bayesian optimization in PyTorch](https://github.com/pytorch/botorch)
 - [GitHub - google/vizier: Python-based research interface for blackbox and hyperparameter optimization, based on the internal Google Vizier Service.](https://github.com/google/vizier)
+
+
 
 ## muP
 

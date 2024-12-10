@@ -49,10 +49,11 @@ time_created: 2024-10-03T19:17:23-04:00
 
 ## MobileNet
 
-
 ## MobileOne
 
 ## FastViT
 
-
 ## GhostNet
+
+## EMOv2
+- [ ] [\[2412.06674\] EMOv2: Pushing 5M Vision Model Frontier](https://arxiv.org/abs/2412.06674)

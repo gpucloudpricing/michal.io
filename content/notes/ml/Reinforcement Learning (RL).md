@@ -7,6 +7,8 @@ time_created: 2023-12-09T00:06:17-05:00
 
 ## Resources
 
+- [ ] [\[2412.05265\] Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
+
 - [ ] [Stanford CS234 I Reinforcement Learning I Spring 2024 I Emma Brunskill - YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX)
 - [ ] [Welcome to Spinning Up in Deep RL! — Spinning Up documentation](https://spinningup.openai.com/en/latest/)
 - [ ] [GitHub - huggingface/deep-rl-class: This repo contain the syllabus of the Hugging Face Deep Reinforcement Learning Class.](https://github.com/huggingface/deep-rl-class)

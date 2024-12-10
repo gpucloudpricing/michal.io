@@ -13,6 +13,8 @@ time_created: 2024-09-24T09:29:45-04:00
 
 ## Compute
 
+
+- [ ] [PrimeIntellect Compute](https://app.primeintellect.ai/dashboard/create-cluster?image=ubuntu_22_cuda_12&location=Cheapest&security=Cheapest&show_spot=false)
 - [ ] [RunPod - The Cloud Built for AI](https://www.runpod.io/)
 - [ ] [Rent GPUs | Vast.ai](https://vast.ai/)
 - [ ] [Getting started | Brev docs](https://www.brev.dev/)

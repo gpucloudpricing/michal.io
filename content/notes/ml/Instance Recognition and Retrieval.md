@@ -52,7 +52,21 @@ time_created: 2024-10-15T09:05:04-04:00
 
 ## Google Landmarks
 
+## MET
+[The Met dataset](https://cmp.felk.cvut.cz/met/)
 
+
+## Products-10K
+[Large scale product recognition dataset](https://products-10k.github.io/)
+
+
+## AICrowd Products
+[AIcrowd | Visual Product Recognition Challenge 2023 | Challenges](https://www.aicrowd.com/challenges/visual-product-recognition-challenge-2023)
+
+
+
+## Amazon Reviews
+[Amazon Reviews'23](https://amazon-reviews-2023.github.io/)
 
 # Tricks of the Trade
 

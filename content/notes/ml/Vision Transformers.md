@@ -5,7 +5,10 @@ time_created: 2023-12-09T00:06:17-05:00
 
 # Transformers in Vision
 
-[[2209.07399] A Light Recipe to Train Robust Vision Transformers](https://arxiv.org/abs/2209.07399)
+- [ ] [[2209.07399] A Light Recipe to Train Robust Vision Transformers](https://arxiv.org/abs/2209.07399)
+- [ ] [\[2412.04786\] Slicing Vision Transformer for Flexible Inference](https://arxiv.org/abs/2412.04786)
+
+
 
 ## Architectures
 

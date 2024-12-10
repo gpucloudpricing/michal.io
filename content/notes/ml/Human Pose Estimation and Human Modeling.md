@@ -6,6 +6,7 @@ time_created: 2023-12-09T00:06:17-05:00
 # Pose Estimation
 
 - [ ] [\[2412.01562\] Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle](https://arxiv.org/abs/2412.01562)
+- [ ] [\[2412.02254\] ProbPose: A Probabilistic Approach to 2D Human Pose Estimation](https://arxiv.org/abs/2412.02254)
 
 ## Top Down
 

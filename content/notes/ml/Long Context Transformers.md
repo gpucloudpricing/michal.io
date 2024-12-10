@@ -65,3 +65,10 @@ time_created: 2024-09-25T20:58:02-04:00
 
 ## Infini-Attention
 - [ ] [A failed experiment: Infini-Attention, and why we should keep trying?](https://huggingface.co/blog/infini-attention)
+
+
+
+
+
+
+- [ ] [\[2410.01485\] A Little Goes a Long Way: Efficient Long Context Training and Inference with Partial Contexts](https://arxiv.org/abs/2410.01485)

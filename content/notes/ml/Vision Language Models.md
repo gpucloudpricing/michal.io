@@ -31,7 +31,9 @@ Train separate backbones for image and text, align them with a contrastive objec
 - [ ] [GitHub - bytedance/fc-clip: [NeurIPS 2023] This repo contains the code for our paper Convolutions Die Hard: Open-Vocabulary Segmentation with Single Frozen Convolutional CLIP](https://github.com/bytedance/fc-clip)
 - [ ] [[2307.16634] CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification](https://arxiv.org/abs/2307.16634)
 - [ ] [[2309.05551] OpenFashionCLIP: Vision-and-Language Contrastive Learning with Open-Source Fashion Data](https://arxiv.org/abs/2309.05551)
-
+- [ ] [\[2410.18857\] Probabilistic Language-Image Pre-Training](https://arxiv.org/abs/2410.18857)
+- [ ] [\[2410.05270\] Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia](https://arxiv.org/abs/2410.05270)
+![[Screenshot 2024-12-09 at 9.22.30 AM.png]]
 ## SigLIP
 
 
@@ -124,6 +126,12 @@ Train separate backbones for image and text, align them with a contrastive objec
 - [ ] [GitHub - rhymes-ai/Aria: Codebase for Aria - an Open Multimodal Native MoE](https://github.com/rhymes-ai/Aria)
 
 
+## Florence-VL
+- [ ] [\[2412.04424\] Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion](https://arxiv.org/abs/2412.04424)
+![[Pasted image 20241207225534.png]]
+
+![[Pasted image 20241207225604.png]]
+
 ## SmolVLM
 
 ## Moondream
@@ -131,6 +139,8 @@ Train separate backbones for image and text, align them with a contrastive objec
 
 # Other Approaches
 
+## Aligning Vision and LLMs
+- [ ] [\[2412.04616\] Assessing and Learning Alignment of Unimodal Vision and Language Models](https://arxiv.org/abs/2412.04616)
 
 ## Multi Task / Combined Objectives
 
@@ -141,6 +151,14 @@ Train separate backbones for image and text, align them with a contrastive objec
 ![[Pasted image 20241207112708.png]]
 
 
+
+## Generative VLMs
+
+- [ ] [\[2412.03069\] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069)
+- [ ] [\[2412.04332\] Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332)
+
+
+- [ ] [[notes/ml/Generative Models|Generative Models]]
 # Patterns
 
 ## Data Curation / Data Augmentation
@@ -165,6 +183,7 @@ Use existing VLMs to generate more detailed captions
 ### Positional Encodings
 
 ## Token Compression / Dropping
+- [ ] [\[2412.04467\] VisionZip: Longer is Better but Not Necessary in Vision Language Models](https://arxiv.org/abs/2412.04467)
 
 ## Early vs Late Fusion
 

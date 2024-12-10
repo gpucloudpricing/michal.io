@@ -112,7 +112,7 @@ Use an LLM to enrich the chunked segment with info from the whole document
 
 # Function Calling
 
-
+[[Function Calling (with LLMs)]]
 
 # Structured Generation
 

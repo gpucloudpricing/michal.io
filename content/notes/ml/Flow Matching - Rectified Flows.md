@@ -16,7 +16,8 @@ time_created: 2024-10-10T12:17:42-04:00
 - [ ] [blog - Flow With What You Know](https://drscotthawley.github.io/blog/posts/FlowModels.html)
 
 
-
+- [ ] https://github.com/facebookresearch/flow_matching
+- [ ] [\[2412.06264\] Flow Matching Guide and Code](https://arxiv.org/abs/2412.06264)
 
 
 ![[Pasted image 20241205224754.png]]
