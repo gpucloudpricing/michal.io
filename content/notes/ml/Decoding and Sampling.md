@@ -6,8 +6,8 @@
 - [ ] [Text generation strategies](https://huggingface.co/docs/transformers/v4.47.0/en/generation_strategies)
 
 
-
-
+[[2024 NeurIPS#[NeurIPS Tutorial Beyond Decoding Meta-Generation Algorithms for Large Language Models](https //neurips.cc/virtual/2024/tutorial/99522)]]
+![[Pasted image 20241211234411.png]]
 
 
 - [ ] [\[2402.10200\] Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200)

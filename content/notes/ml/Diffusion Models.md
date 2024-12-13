@@ -29,6 +29,8 @@ time_created: 2023-12-09T00:06:17-05:00
 
 - [ ] textual inversion
 	- [ ] optimize a new token embedding for new concept (an image is worth one word)
+- [ ] ControlNet
+	- [ ] Copies the model and grafts it onto existing frozen one and tunes it to condition on things like depth or edge maps
 - [ ] DreamBooth
 	- [ ] find unused tokens to map the concept onto, update (fine tune) the model
 	- [ ] auxiliary loss to penalize drift for other concepts

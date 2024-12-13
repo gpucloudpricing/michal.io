@@ -1,4 +1,5 @@
 
+- [ ] [Structured outputs can hurt the performance of LLMs – Dylan Castillo](https://dylancastillo.co/posts/say-what-you-mean-sometimes.html)
 
 
 - [ ] [GitHub - mlc-ai/xgrammar: Efficient, Flexible and Portable Structured Generation](https://github.com/mlc-ai/xgrammar)

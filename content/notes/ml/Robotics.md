@@ -25,6 +25,7 @@ time_created: 2024-10-24T09:54:48-04:00
 - [ ] [OpenVLA: LeRobot Research Presentation #5 by Moo Jin Kim - YouTube](https://youtu.be/-0s0v3q7mBk?si=TzOCv0p63JphansE)
 	- [ ] LoRA fine tuning matches full fine tuning
 	- [ ] in4 quantized fits in 7GB of ram with no performance degradation 
+- [ ] [RLDG: Robotic Generalist Policy Distillation via Reinforcement Learning](https://generalist-distillation.github.io/)
 
 
 ### Ideas

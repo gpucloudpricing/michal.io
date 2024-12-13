@@ -14,6 +14,7 @@ time_created: 2024-10-10T12:17:42-04:00
 - [ ] ["Normalizing Flows" by Didrik Nielsen - YouTube](https://www.youtube.com/watch?v=bu9WZ0RFG0U)
 - [ ] [Flow matching : The next frontier in Generative AI | by Siddhant Rai | Medium](https://medium.com/@rsiddhant73/flow-matching-the-next-frontier-in-generative-ai-7cf02ebbe859)
 - [ ] [blog - Flow With What You Know](https://drscotthawley.github.io/blog/posts/FlowModels.html)
+- [ ] [A Visual Dive into Conditional Flow Matching | ICLR Blogposts 2025](https://dl.heeere.com/conditional-flow-matching/blog/conditional-flow-matching/)
 
 
 - [ ] https://github.com/facebookresearch/flow_matching

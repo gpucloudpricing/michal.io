@@ -12,11 +12,15 @@
 
 # Autoregressive
 
+
+- [ ] [\[2404.02905\] Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/abs/2404.02905)
 - [ ] [\[2410.10812\] HART: Efficient Visual Generation with Hybrid Autoregressive Transformer](https://arxiv.org/abs/2410.10812)
 - [ ] [\[2412.01819\] Switti: Designing Scale-Wise Transformers for Text-to-Image Synthesis](https://arxiv.org/abs/2412.01819)
 - [ ] [\[2412.04431\] Infinity: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis](https://arxiv.org/abs/2412.04431)
 - [ ] [\[2412.04332\] Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332)
 - [ ] [\[2412.03069\] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069)
+- [ ] [\[2411.18447\] Continuous Autoregressive Models with Noise Augmentation Avoid Error Accumulation](https://arxiv.org/abs/2411.18447)
+- [ ] [\[2411.19722\] JetFormer: An Autoregressive Generative Model of Raw Images and Text](https://arxiv.org/abs/2411.19722)
 
 
 

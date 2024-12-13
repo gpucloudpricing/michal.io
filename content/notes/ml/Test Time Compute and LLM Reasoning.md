@@ -18,6 +18,7 @@ time_created: 2024-10-15T23:57:54-04:00
 
 - [ ] [\[2410.10630\] Thinking LLMs: General Instruction Following with Thought Generation](https://arxiv.org/abs/2410.10630)
 - [ ] [\[2411.19865\] Reverse Thinking Makes LLMs Stronger Reasoners](https://arxiv.org/abs/2411.19865)
+- [ ] [\[2411.04282\] Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282)
 
 
 
