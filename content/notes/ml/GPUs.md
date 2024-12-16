@@ -7,6 +7,9 @@ time_created: 2024-10-03T11:13:34-04:00
 
 [[Cloud GPUs]]
 
+
+- [ ] [README | GPU Glossary](https://modal.com/gpu-glossary/readme)
+
 # GPU Programming
 
 - [ ] See [[cuda]]

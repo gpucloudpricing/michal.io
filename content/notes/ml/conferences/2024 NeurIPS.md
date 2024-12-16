@@ -164,3 +164,177 @@
 ![[Pasted image 20241212223606.png]]
 
 ![[Pasted image 20241212223819.png]]
+
+
+
+
+# [MATH-AI: The 4th Workshop on Mathematical Reasoning and AI](https://neurips.cc/virtual/2024/workshop/84719)
+
+
+![[Pasted image 20241214220831.png]]
+
+![[Pasted image 20241214221014.png]]
+
+![[Pasted image 20241214221138.png]]
+
+![[Pasted image 20241214221359.png]]
+
+
+
+# [Adaptive Foundation Models: Evolving AI for Personalized and Efficient Learning](https://neurips.cc/virtual/2024/workshop/84747)
+
+
+
+![[Pasted image 20241214204551.png]]
+
+
+![[Pasted image 20241214210617.png]]
+
+
+![[Pasted image 20241214211025.png]]
+
+![[Pasted image 20241214211140.png]]
+
+
+
+# [The Fourth Workshop on Efficient Natural Language and Speech Processing (ENLSP-IV): Highlighting New Architectures for Future Foundation Models](https://neurips.cc/virtual/2024/workshop/84731)
+
+
+![[Pasted image 20241214224143.png]]
+
+
+## Tri Dao
+
+SSMs and Mamba
+
+![[Pasted image 20241214225437.png]]
+
+![[Pasted image 20241214225921.png]]
+
+![[Pasted image 20241214230214.png]]
+
+![[Pasted image 20241214230331.png]]
+
+![[Pasted image 20241214230503.png]]
+
+![[Pasted image 20241214230546.png]]
+
+![[Pasted image 20241214230708.png]]
+![[Pasted image 20241214230802.png]]
+
+![[Pasted image 20241214231018.png]]
+
+![[Pasted image 20241214231230.png]]
+
+![[Pasted image 20241214231545.png]]
+
+
+## Navdeep Jaitly
+
+![[Pasted image 20241214232244.png]]
+
+![[Pasted image 20241214232359.png]]
+
+![[Pasted image 20241214232449.png]]
+
+![[Pasted image 20241214232609.png]]
+
+![[Pasted image 20241214232737.png]]
+
+![[Pasted image 20241214232814.png]]
+
+![[Pasted image 20241214233012.png]]
+
+![[Pasted image 20241214233143.png]]
+
+![[Pasted image 20241214233410.png]]
+
+![[Pasted image 20241214233500.png]]
+
+![[Pasted image 20241214233744.png]]
+
+
+![[Pasted image 20241214234521.png]]
+
+![[Pasted image 20241214234721.png]]
+
+![[Pasted image 20241214234915.png]]
+
+
+
+
+## Sparsified SSMs
+
+![[Pasted image 20241215104728.png]]
+
+![[Pasted image 20241215104805.png]]![[Screenshot 2024-12-15 at 10.49.31 AM.png]]![[Screenshot 2024-12-15 at 10.50.43 AM.png]]![[Screenshot 2024-12-15 at 10.54.10 AM.png]]
+
+
+## Longhorn: State Space Models are Amortized Online Learners
+
+
+![[Screenshot 2024-12-15 at 11.00.06 AM.png]]
+
+![[Screenshot 2024-12-15 at 11.02.49 AM.png]]![[Screenshot 2024-12-15 at 11.03.31 AM.png]]![[Screenshot 2024-12-15 at 11.04.22 AM.png]]
+
+
+![[Screenshot 2024-12-15 at 11.05.16 AM.png]]![[Screenshot 2024-12-15 at 11.09.01 AM.png]]![[Screenshot 2024-12-15 at 11.09.34 AM.png]]![[Screenshot 2024-12-15 at 11.11.50 AM.png]]![[Screenshot 2024-12-15 at 11.14.34 AM.png]]![[Screenshot 2024-12-15 at 11.15.45 AM.png]]
+
+
+## GEAR - KV Cache Compression
+
+![[Screenshot 2024-12-15 at 11.17.52 AM.png]]![[Screenshot 2024-12-15 at 11.18.36 AM.png]]
+
+
+## OLMoE - AI2
+
+![[Screenshot 2024-12-15 at 11.21.02 AM.png]]![[Screenshot 2024-12-15 at 11.21.24 AM.png]]![[Screenshot 2024-12-15 at 11.22.11 AM.png]]
+
+
+
+## An Evolved Universal Transformer Memory
+
+
+
+
+
+
+# [Machine Learning for Systems](https://neurips.cc/virtual/2024/workshop/84699)
+
+## Jeff Dean
+
+
+
+# [Fine-Tuning in Modern Machine Learning: Principles and Scalability](https://neurips.cc/virtual/2024/workshop/84742)
+
+
+![[Screenshot 2024-12-15 at 2.44.41 PM.png]]![[Screenshot 2024-12-15 at 2.45.15 PM.png]]![[Screenshot 2024-12-15 at 2.45.42 PM.png]]![[Screenshot 2024-12-15 at 2.46.14 PM.png]]![[Screenshot 2024-12-15 at 2.47.13 PM.png]]![[Screenshot 2024-12-15 at 2.47.49 PM.png]]
+![[Pasted image 20241215144924.png]]
+
+![[Pasted image 20241215145042.png]]
+
+![[Pasted image 20241215145243.png]]
+
+![[Pasted image 20241215145936.png]]![[Screenshot 2024-12-15 at 2.59.59 PM.png]]
+
+![[Pasted image 20241215150135.png]]
+
+![[Pasted image 20241215150847.png]]![[Screenshot 2024-12-15 at 3.25.55 PM.png]]![[Screenshot 2024-12-15 at 3.49.13 PM.png]]
+
+![[Pasted image 20241215155338.png]]
+
+![[Pasted image 20241215155902.png]]
+
+
+
+## How Transformers learn Causal Structure with Gradient Descent
+
+![[Pasted image 20241216091936.png]]
+
+![[Pasted image 20241216092211.png]]
+
+![[Pasted image 20241216092245.png]]
+
+![[Pasted image 20241216092556.png]]
+
+![[Pasted image 20241216092630.png]]

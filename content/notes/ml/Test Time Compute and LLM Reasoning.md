@@ -20,9 +20,15 @@ time_created: 2024-10-15T23:57:54-04:00
 - [ ] [\[2411.19865\] Reverse Thinking Makes LLMs Stronger Reasoners](https://arxiv.org/abs/2411.19865)
 - [ ] [\[2411.04282\] Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding](https://arxiv.org/abs/2411.04282)
 
-
+- [ ] [\[2409.15254\] Archon: An Architecture Search Framework for Inference-Time Techniques](https://arxiv.org/abs/2409.15254)
 
 
 ### Open Source
-
 - [ ] [Qwen/QwQ-32B-Preview · Hugging Face](https://huggingface.co/Qwen/QwQ-32B-Preview)
+
+
+
+
+
+## Related
+- [ ] [\[2203.01517\] Correct-N-Contrast: A Contrastive Approach for Improving Robustness to Spurious Correlations](https://arxiv.org/abs/2203.01517)

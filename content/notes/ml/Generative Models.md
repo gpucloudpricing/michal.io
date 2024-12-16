@@ -21,6 +21,7 @@
 - [ ] [\[2412.03069\] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069)
 - [ ] [\[2411.18447\] Continuous Autoregressive Models with Noise Augmentation Avoid Error Accumulation](https://arxiv.org/abs/2411.18447)
 - [ ] [\[2411.19722\] JetFormer: An Autoregressive Generative Model of Raw Images and Text](https://arxiv.org/abs/2411.19722)
+- [ ] [GitHub - lucidrains/transfusion-pytorch: Pytorch implementation of Transfusion, "Predict the Next Token and Diffuse Images with One Multi-Modal Model", from MetaAI](https://github.com/lucidrains/transfusion-pytorch)
 
 
 

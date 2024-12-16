@@ -15,6 +15,7 @@ time_created: 2023-12-09T00:06:17-05:00
 - [ ] [[2306.11197] Sparse Modular Activation for Efficient Sequence Modeling](https://arxiv.org/abs/2306.11197)
 - [ ] [GitHub - renll/SeqBoat: [NeurIPS 2023] Sparse Modular Activation for Efficient Sequence Modeling](https://github.com/renll/SeqBoat)
 
+# Architectures
 
 ## RWKV
 
@@ -98,3 +99,21 @@ time_created: 2023-12-09T00:06:17-05:00
 ## Attamba
 
 - [ ] [\[2411.17685\] Attamba: Attending To Multi-Token States](https://arxiv.org/abs/2411.17685)
+
+
+
+
+
+
+
+# Patterns
+
+
+## Hybrids
+
+
+##  Pruning
+
+### Simba (Hierarchical SSM Pruning)
+
+- [ ] [Sparsified State-Space Models are Efficient Highway Networks](https://openreview.net/pdf/a5d04babb0d2efbd3679721149f2ebe0ace2036e.pdf)

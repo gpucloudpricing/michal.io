@@ -21,6 +21,15 @@ time_created: 2023-12-09T00:06:17-05:00
 - [ ] [GitHub - AIRI-Institute/Scalable-SASRec: This repository contains code for the paper "Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs", RecSys '24](https://github.com/AIRI-Institute/Scalable-SASRec)
 
 
+## Collaborative Filtering
+- [GitHub - HKUDS/DCCF: [SIGIR'2023] "DCCF: Disentangled Contrastive Collaborative Filtering"](https://github.com/HKUDS/DCCF)
+
+## Embeddings
+
+- [[2102.12029] Theoretical Understandings of Product Embedding for E-commerce Machine Learning](https://arxiv.org/abs/2102.12029)
+- [Vector representation of products Prod2Vec: How to get rid of a lot of embeddings | by Alexander Golubev | Towards Data Science](https://towardsdatascience.com/vector-representation-of-products-prod2vec-how-to-get-rid-of-a-lot-of-embeddings-26265361457c)
+
+
 ## Articles
 
 - [Blueprints for recommender system architectures: 10th anniversary edition - AI, software, tech, and people, not in that order… by X](https://amatriain.net/blog/RecsysArchitectures)
@@ -36,15 +45,9 @@ time_created: 2023-12-09T00:06:17-05:00
 - [GitHub - otto-de/TRON: ⚡️ Implementation of TRON: Transformer Recommender using Optimized Negative-sampling, accepted at ACM RecSys 2023.](https://github.com/otto-de/TRON)
 - [GitHub - asash/gSASRec-pytorch](https://github.com/asash/gSASRec-pytorch)
 - [GitHub - AIM-SE/AC-TSR: Official code for paper "Attention Calibration for Transformer-based Sequential Recommendation"](https://github.com/AIM-SE/AC-TSR)
+- [GitHub - facebookresearch/dlrm: An implementation of a deep learning recommendation model (DLRM)](https://github.com/facebookresearch/dlrm)
 
 
-## Collaborative Filtering
-- [GitHub - HKUDS/DCCF: [SIGIR'2023] "DCCF: Disentangled Contrastive Collaborative Filtering"](https://github.com/HKUDS/DCCF)
-
-## Embeddings
-
-- [[2102.12029] Theoretical Understandings of Product Embedding for E-commerce Machine Learning](https://arxiv.org/abs/2102.12029)
-- [Vector representation of products Prod2Vec: How to get rid of a lot of embeddings | by Alexander Golubev | Towards Data Science](https://towardsdatascience.com/vector-representation-of-products-prod2vec-how-to-get-rid-of-a-lot-of-embeddings-26265361457c)
 
 ## Videos
 

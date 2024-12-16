@@ -17,6 +17,8 @@ Prefill vs generation, compute bound vs memory bound
 
 ## KV Cache
 
+![[Pasted image 20241214102559.png]]
+
 ![[Pasted image 20241028094703.png]]
 
 ### Grouped Query Attention
