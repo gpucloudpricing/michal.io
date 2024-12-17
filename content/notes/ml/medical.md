@@ -25,6 +25,10 @@
 - [ ] [\[2409.15277\] A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?](https://arxiv.org/abs/2409.15277)
 - [ ] [\[2409.13191\] An adapted large language model facilitates multiple medical tasks in diabetes care](https://arxiv.org/abs/2409.13191)
 
+
+
+- [ ] [\[2412.10849\] Superhuman performance of a large language model on the reasoning tasks of a physician](https://arxiv.org/abs/2412.10849)
+- [ ] [\[2409.15277\] A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?](https://arxiv.org/abs/2409.15277)
 ## Datasets
 
 - [Find Open Datasets and Machine Learning Projects | Kaggle](https://www.kaggle.com/datasets?tags=11111-Health)

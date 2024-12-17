@@ -20,8 +20,12 @@
 - [ ] [\[2412.04332\] Liquid: Language Models are Scalable Multi-modal Generators](https://arxiv.org/abs/2412.04332)
 - [ ] [\[2412.03069\] TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation](https://arxiv.org/abs/2412.03069)
 - [ ] [\[2411.18447\] Continuous Autoregressive Models with Noise Augmentation Avoid Error Accumulation](https://arxiv.org/abs/2411.18447)
+- [ ] [\[2412.12095\] Causal Diffusion Transformers for Generative Modeling](https://arxiv.org/abs/2412.12095)
+- [ ] [\[2412.09607\] Spectral Image Tokenizer](https://www.arxiv.org/abs/2412.09607)
+
 - [ ] [\[2411.19722\] JetFormer: An Autoregressive Generative Model of Raw Images and Text](https://arxiv.org/abs/2411.19722)
 - [ ] [GitHub - lucidrains/transfusion-pytorch: Pytorch implementation of Transfusion, "Predict the Next Token and Diffuse Images with One Multi-Modal Model", from MetaAI](https://github.com/lucidrains/transfusion-pytorch)
+- [ ] 
 
 
 

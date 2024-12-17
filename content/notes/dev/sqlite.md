@@ -9,13 +9,12 @@ https://simonwillison.net/tags/sqlite/
 
 ### Optimizations
 
-[SQLite performance tuning](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
+- [ ] [SQLite performance tuning](https://phiresky.github.io/blog/2020/sqlite-performance-tuning/)
+- [ ] [Towards Inserting One Billion Rows in SQLite Under A Minute - blag](https://avi.im/blag/2021/fast-sqlite-inserts/)
+- [ ] https://github.com/avinassh/fast-sqlite3-inserts
+- [ ] https://stackoverflow.com/questions/52142645/how-to-improve-sqlite-insert-performance-in-python-3-6
 
-[Towards Inserting One Billion Rows in SQLite Under A Minute - blag](https://avi.im/blag/2021/fast-sqlite-inserts/)
-
-https://github.com/avinassh/fast-sqlite3-inserts
-
-https://stackoverflow.com/questions/52142645/how-to-improve-sqlite-insert-performance-in-python-3-6
+- [ ] [In search of a faster SQLite - blag](https://avi.im/blag/2024/faster-sqlite/)
 
 ### Data
 

@@ -27,7 +27,8 @@ time_created: 2024-10-15T23:57:54-04:00
 - [ ] [Qwen/QwQ-32B-Preview · Hugging Face](https://huggingface.co/Qwen/QwQ-32B-Preview)
 - [ ] [🚀 DeepSeek-R1-Lite-Preview is now live: unleashing supercharged reasoning power! | DeepSeek API Docs](https://api-docs.deepseek.com/news/news1120)
 
-
+- [ ] [GitHub - huggingface/search-and-learn](https://github.com/huggingface/search-and-learn)
+- [ ] [Scaling test-time compute - a Hugging Face Space by HuggingFaceH4](https://huggingface.co/spaces/HuggingFaceH4/blogpost-scaling-test-time-compute)
 
 
 
