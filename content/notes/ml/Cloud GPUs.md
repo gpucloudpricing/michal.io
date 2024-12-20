@@ -34,7 +34,7 @@ time_created: 2024-09-24T09:29:45-04:00
 - [ ] [Cloud GPU Price Comparison 2024](https://getdeploying.com/reference/cloud-gpu)
 - [ ] [Cloud GPUs - The Full Stack](https://fullstackdeeplearning.com/cloud-gpus/)
 - [ ] [Cloud GPUs](https://cloud-gpus.com/)
-
+- [ ] [GPU Cloud Pricing](https://www.gpucloudpricing.com)
 
 ## Benchmarks
 
